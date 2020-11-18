@@ -1,0 +1,11 @@
+Makefile.local
+chroma-config
+*.pl
+*.xml
+*.pl
+*.o
+*/*.o
+*/*/*.o
+*~
+*/*~
+*/*/*~
