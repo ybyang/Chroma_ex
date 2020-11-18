@@ -1,0 +1,8 @@
+	Makefile.local
+	README
+	*.o
+	*.pl
+	*.xml
+	*.pl
+	*/*.o
+	*/*/*.o
